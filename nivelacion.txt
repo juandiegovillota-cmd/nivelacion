@@ -1,0 +1,23 @@
+<H4>4/05/2026</H4>
+<h1>LA CRISIS DE SEGURIDAD EN CATACUMBO</H1>
+<style>
+h1{
+text-align:center;
+font-family:Garamond;
+}
+</style>
+<h3> Tibú exigiendo la liberación de seis niños secuestrados</h3>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRsSR-VGxf8BeHieNCcBKftp4kk3Q8gmrjg&s";>
+<p>La situación de seguridad en el Catatumbo es crítica. Desde mediados de abril de 2026, la comunidad de Tibú y organizaciones sociales han intensificado sus protestas tras el secuestro de al menos seis menores de edad en hechos aislados en la regiónLa crisis humanitaria en la región del Catatumbo, en el noreste de Colombia, ha escalado significativamente en los últimos 15 meses, consolidándose como una de las emergencias sociales más graves del país en las últimas tres décadas. A mayo de 2026, la situación se caracteriza por una parálisis social provocada por la disputa territorial entre el ELN y el Frente 33 de las disidencias de las FARC.</p>
+<style>
+ p{
+text-align:center;
+font-family:Georgia;
+}
+</style>
+<ul>
+<li>Guerra contra niños: El secuestro y reclutamiento de menores prueba que los civiles son el blanco principal.</li>
+<li>Gobierno paralelo: Los grupos ilegales controlan la vida y el movimiento, no el Estado</li>
+<li>Fracaso estatal: 100,000 desplazados confirman que las medidas del gobierno son insuficientes.</li>
+<h5>juan diego villota daza</h5>
